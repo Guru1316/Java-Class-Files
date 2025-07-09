@@ -1,0 +1,66 @@
+OOPS CONCEPTS:
+
+1) Class
+2) Object
+3) Constructor
+4) Destructor
+5) Association
+6) Aggregation
+7) Composition
+8) Polymorphism
+9) Inheritance
+10) Encapsulation
+11) Data Abstraction
+12) Cohesion
+13) Coupling
+
+
+
+History of Java :
+
+1991: James Gosling and his team at Sun Microsystems (later acquired by Oracle) start "Oak" project for embedded systems.
+1995: Renamed "Java" and released publicly with a focus on web browsers (applets).
+1996: JDK 1.0 (Java Development Kit) launched.
+2000s: Became popular for enterprise (J2EE), mobile (J2ME), and desktop apps.
+2006: Open-sourced under GNU GPL.
+2009: Oracle acquired Sun, taking over Java.
+2014: Java 8 introduced lambdas and Stream API.
+2018: Java 10+ adopted 6-month release cycles.
+2023: Java remains widely used in cloud, Android (via Kotlin), and enterprise.
+Key features: Write Once, Run Anywhere (WORA), object-oriented, robust ecosystem.
+
+
+
+JVM (Java Virtual Machine) :
+
+Executes Java bytecode (.class files).
+Provides platform independence ("Write Once, Run Anywhere").
+Performs memory management, garbage collection, and security checks.
+
+
+
+JRE (Java Runtime Environment)
+
+Includes JVM + core libraries needed to run Java applications.
+Does not include development tools (like compiler).
+Used by end-users to execute Java programs.
+
+
+
+Difference:
+
+JVM runs the code, while JRE = JVM + Libraries.
+Developers need JDK (includes JRE + compiler & tools).
+
+
+
+Why Java ?
+
+Platform Independent (WORA) – Runs on JVM, no recompilation needed.
+Automatic Memory Management – Garbage collection prevents leaks
+Secure – No pointers, bytecode verification, sandboxing.
+Simple & Object-Oriented – Cleaner than C++, no multiple inheritance.
+Rich Standard Library – Built-in APIs for networking, I/O, collections, etc.
+Multithreading Support – Easy concurrency handling.
+High Performance (JIT Compilation) – Near-native speed with optimizations.
+Widely Used – Enterprise, Android, cloud, big data (Hadoop, Spark).
