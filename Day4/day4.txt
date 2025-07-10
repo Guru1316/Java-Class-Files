@@ -1,0 +1,35 @@
+Autoboxing -> Coversion of Primitive Datatype to Object Wrapper Classes
+
+Unboxing -> Reverse process of Autoboxing 
+
+Convertions :
+
+Byte Byte.parseByte(), Byte.valueOf()
+Short Short.parseShort(), Short.valueOf()
+Integer Integer.parseInt(), Integer.valueOf()
+Long Long.parseLong(), Long.valueOf()
+Float
+Double
+
+String s = ""+b; b.toString()
+
+BigInteger
+BigDecimal
+
+
+IO Classes:
+
+1) Reader/Writer -> Character Based Inputs/Outputs
+2) InputStream/OutputStream -> Byte Based Input/Output
+3) Console -> CMD Prompt
+
+DataReader/DataWriter
+DataInputStream/DataOutputStream
+FileReader/FileWriter
+FileInputStream/FileOutputStream
+BufferReader/BufferWriter
+InputStreamReader/OutputStreamWriter
+
+Utilpackage:
+
+1) Scanner class 
