@@ -1,0 +1,32 @@
+Arrays:
+
+Syantax: 
+
+Eg: int []arr = new int[size];
+Eg: float []arr = new float[size];
+Eg: Student []sarr = new Student[size];
+
+int []arr = {1,2,3,4,5};
+
+
+Types of Arrays:
+
+1) 1D Arrays
+2) 2D Arrays -> int [][] mat = new int[row][col];
+3) Multi Dimension Arrays 
+Eg: 3D Arrays -> int [][][] mat = new int[no of 2D][rows][cols];
+4) Jagged Arrays
+Eg: int [][] mat = new int[4][];
+    mat[0] = new int[5];
+    mat[1] = new int[7];
+    mat[2] = new int[8];
+
+Task:
+
+1) Create a music Player which contains two classes Songs and Playlists
+   Create Songs class with two parameters string title and int length
+   Create Playlist class which contains name of the playlist and no of Songs
+   Create appropriate constructors, getters, setters and override toString method
+   From main class create N number of Songs and display the same
+   Then Create n number of playlist and fill their details
+   No of songs in the playlist should not exceed the total no of songs 
