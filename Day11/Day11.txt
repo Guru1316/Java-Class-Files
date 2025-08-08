@@ -1,0 +1,22 @@
+1))static Keyword can be used before => To open all connections
+
+1) Variable
+2) Method
+3) Class
+4) Block 
+Eg for Block 
+{
+    //
+}
+
+
+
+2))final Keyword can be used before => To close all connections - All wrapper classes are final 
+
+1) Class - It cannot be extended
+2) Method - Can't be Overrided
+3) Variable - Can't be reassigned
+
+
+
+3)) abstract and final cannot go along

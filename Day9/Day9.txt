@@ -1,0 +1,16 @@
+Project Task: Java Console Based Application With File Handling
+
+Example :
+
+
+Attendance Management System
+
+1) Track the Attendance
+2) Students Attendance
+3) Faculty Going To Track This
+4) Daily Faculty Will Take The Attendance And Recors It
+5) Present / Absent / On-Duty / Leave / Late
+6) Report Absentees Count
+7) On Duty Count
+8) Present Count 
+

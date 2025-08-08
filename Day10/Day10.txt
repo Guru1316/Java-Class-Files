@@ -1,0 +1,6 @@
+Write a Java Program to list employees with their roles
+Create Role class which contain Role ID and Role Name
+Create Employee Class which contain Employee Id, Employee Name, Employee role, Employee salary
+Create Main class to create the Role Array
+Manager, Team Leader, Team Member
+Create Employee array to store employee objects list all employee based on their on role
