@@ -1,0 +1,36 @@
+Inheritance:
+Types:
+1) Single
+2) Multiple - Not Supported in Java
+3) Multilevel
+4) Hierarchical
+5) Hybrid - Not Supported in Java
+
+Syntax:[Example]
+1) Single
+class superclass{
+    method1()
+    method2()
+}
+
+class subclass1 extends superclass{
+    method3()
+    method4()
+}
+
+class subclass2 extends superclass{
+    method3()
+    method4()
+}
+
+upcasting:
+user u1 = new student()
+user u2 = new faculty()
+user u3 = new HOD()
+
+downcasting is not possible but it can be achieved if parent class is empty
+Student s1 = new user()
+
+
+Polymorphism:
+Overloading - Compile Time and Overriding - Run Time
