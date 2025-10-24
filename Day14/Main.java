@@ -9,7 +9,7 @@ public class Main {
         {
             fir[i] = new First();
             fir[i].setName("First-");
-            thr[j++] = new Thread(fir[i]);
+            thr[j++] = fir[i];
         }
         for(int i=0;i<n;i++)
         {
