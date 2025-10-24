@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int n = 1;
+        int n = 2;
         First[] fir = new First[n];
         Second[] sec = new Second[n];
         Thread[] thr = new Thread[n+n];

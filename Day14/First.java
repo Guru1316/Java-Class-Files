@@ -4,6 +4,14 @@ public class First extends Thread{
         for(int i = 1; i<=10; i++)
         {
             System.out.println(this.getName()+" "+i);
+            try
+            {
+                Thread.sleep(1000);
+            }
+            catch(Exception e)
+            {
+                e.printStackTrace();
+            }
         }
     }
 }
